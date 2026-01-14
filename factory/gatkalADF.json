@@ -1,0 +1,9 @@
+{
+	"name": "gatkalADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b791db2f-bf4c-415b-9cb8-8022b74a6b9f",
+		"tenantId": "0305fde9-def5-4fa2-bb05-f15d865bbad3"
+	}
+}
